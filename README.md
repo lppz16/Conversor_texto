@@ -80,3 +80,9 @@ El código está organizado de la siguiente manera:
 **2. Interfaz gráfica:** El código usa Tkinter para construir la interfaz, con un cuadro de entrada de texto y botones para las diferentes transformaciones.
 
 **3. Messagebox:** Para manejar los errores de validación cuando el texto no es válido.
+
+## Captura del proyecto
+
+## Autor
+
+Yan Frank Ríos López
