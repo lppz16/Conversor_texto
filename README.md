@@ -83,6 +83,14 @@ El código está organizado de la siguiente manera:
 
 ## Captura del proyecto
 
+![](Img/Captura de pantalla 2024-10-21 204019.png)
+
+![](Img/Captura de pantalla 2024-10-21 204028.png)
+
+![](Img/Captura de pantalla 2024-10-21 204035.png)
+
+![](Img/Captura de pantalla 2024-10-21 204043.png)
+
 ## Autor
 
 Yan Frank Ríos López
