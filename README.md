@@ -1,21 +1,21 @@
 # Proyecto de Conversor de Texto en Python y Tkinter
 
 ## Índice
-1. Descripción
+**1.** [Descripción](#descripción)
 
-2. ¿Cómo puede ser clonado?
+**2.** [¿Cómo puede ser clonado?](#cómo-puede-ser-clonado)
 
-3. Instalación
+**3.** [Instalación](#instalación)
 
-4. Herramientas utilizadas
+**4.** [Herramientas utilizas](#herramientas-utilizadas)
 
-5. Uso
+**5.** [Uso](#uso)
 
-6. Estructura del código
+**6.** [Estructura del código](#estructura-del-codigo)
 
-7. Captura del proyecto
+**7.** [Captura del proyecto](#captura-del-proyecto)
 
-8. Autor
+**8.** [Autor](#autor)
 
 ## Descripción
 Este proyecto es un conversor de texto que permite transformar el texto ingresado en diferentes formatos, como mayúsculas, minúsculas, capitalizar la primera letra o capitalizar la primera letra de cada palabra. La interfaz gráfica está desarrollada con Tkinter, lo que facilita su uso y permite que el resultado de la conversión se muestre en la pantalla de manera interactiva. Además, se verifica que el texto solo contenga letras y espacios, mostrando un mensaje de error en caso contrario.
