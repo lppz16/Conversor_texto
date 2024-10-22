@@ -26,7 +26,7 @@ Para clonar este proyecto, asegúrate de tener Git instalado en tu sistema. Lueg
 
 bash
 Copiar código
-git clone <[URL del repositorio]>
+git clone (https://github.com/lppz16/Conversor_texto.git)
 
 ## Instalación
 Para ejecutar el conversor de texto en tu propio entorno, sigue estos pasos:
