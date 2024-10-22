@@ -83,13 +83,13 @@ El código está organizado de la siguiente manera:
 
 ## Captura del proyecto
 
-![](Img/Captura de pantalla 2024-10-21 204019.png)
+![Conversión a Mayúsculas](https://github.com/lppz16/Conversor_texto/blob/9fdb7dc30674736e698d63d2acc883e1992d2238/Img/Captura%20de%20pantalla%202024-10-21%20204019.png)
 
-![](Img/Captura de pantalla 2024-10-21 204028.png)
+![Conversión a Minúsculas](https://github.com/lppz16/Conversor_texto/blob/9fdb7dc30674736e698d63d2acc883e1992d2238/Img/Captura%20de%20pantalla%202024-10-21%20204028.png)
 
-![](Img/Captura de pantalla 2024-10-21 204035.png)
+![Conversión a ](https://github.com/lppz16/Conversor_texto/blob/9fdb7dc30674736e698d63d2acc883e1992d2238/Img/Captura%20de%20pantalla%202024-10-21%20204035.png)
 
-![](Img/Captura de pantalla 2024-10-21 204043.png)
+![Conversión a Mayúscula de la primera letra](https://github.com/lppz16/Conversor_texto/blob/9fdb7dc30674736e698d63d2acc883e1992d2238/Img/Captura%20de%20pantalla%202024-10-21%20204043.png)
 
 ## Autor
 
