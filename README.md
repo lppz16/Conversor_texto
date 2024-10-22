@@ -1,4 +1,5 @@
 # Proyecto de Conversor de Texto en Python y Tkinter
+![Static Badge](https://img.shields.io/badge/Python-12-red?logo=Python&logoColor=white)
 
 ## Índice
 **1.** [Descripción](#descripción)
